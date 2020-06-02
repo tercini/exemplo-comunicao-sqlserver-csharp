@@ -1,0 +1,14 @@
+C:\Users\rapha\source\repos\testeApp\testeApp\bin\Debug\testeApp.exe.config
+C:\Users\rapha\source\repos\testeApp\testeApp\bin\Debug\testeApp.exe
+C:\Users\rapha\source\repos\testeApp\testeApp\bin\Debug\testeApp.pdb
+C:\Users\rapha\source\repos\testeApp\testeApp\bin\Debug\CamadaDados.dll
+C:\Users\rapha\source\repos\testeApp\testeApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rapha\source\repos\testeApp\testeApp\bin\Debug\CamadaDados.pdb
+C:\Users\rapha\source\repos\testeApp\testeApp\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rapha\source\repos\testeApp\testeApp\obj\Debug\testeApp.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\testeApp\testeApp\obj\Debug\testeApp.frmLogin.resources
+C:\Users\rapha\source\repos\testeApp\testeApp\obj\Debug\testeApp.Properties.Resources.resources
+C:\Users\rapha\source\repos\testeApp\testeApp\obj\Debug\testeApp.csproj.GenerateResource.cache
+C:\Users\rapha\source\repos\testeApp\testeApp\obj\Debug\testeApp.csproj.CopyComplete
+C:\Users\rapha\source\repos\testeApp\testeApp\obj\Debug\testeApp.exe
+C:\Users\rapha\source\repos\testeApp\testeApp\obj\Debug\testeApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\rapha\source\repos\testeApp\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\rapha\source\repos\testeApp\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\rapha\source\repos\testeApp\CamadaDados\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rapha\source\repos\testeApp\CamadaDados\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rapha\source\repos\testeApp\CamadaDados\obj\Debug\CamadaDados.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\testeApp\CamadaDados\obj\Debug\CamadaDados.csproj.CopyComplete
+C:\Users\rapha\source\repos\testeApp\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\rapha\source\repos\testeApp\CamadaDados\obj\Debug\CamadaDados.pdb
