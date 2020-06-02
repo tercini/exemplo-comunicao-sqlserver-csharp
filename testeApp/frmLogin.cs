@@ -33,7 +33,7 @@ namespace testeApp
             ret = usuario.Login(usuario);
 
             if (ret > 0)
-                MessageBox.Show("Usuário logado com sucesso");
+                MessageBox.Show("Usuário logado com sucesso...");
             else
                 MessageBox.Show("Usuario inválido");
 
